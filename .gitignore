@@ -1,6 +1,3 @@
-# Generated figures
-figures/
-
 # Python
 __pycache__/
 *.py[cod]
